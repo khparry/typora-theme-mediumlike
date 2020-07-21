@@ -313,6 +313,11 @@ code, .md-fences {
 	overflow: auto;
 	white-space: pre-wrap;
 }
+
+.cm-s-inner {
+	background: none !important;
+}
+
 .md-fences {
 	margin: 0 0 20px;
 	font-size: 1rem;
